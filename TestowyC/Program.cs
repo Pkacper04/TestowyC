@@ -10,6 +10,7 @@ namespace TestowyC
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("przykladowy tekst");
         }
     }
 }
