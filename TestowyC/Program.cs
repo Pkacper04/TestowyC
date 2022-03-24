@@ -11,6 +11,10 @@ namespace TestowyC
         static void Main(string[] args)
         {
             Console.WriteLine("przykladowy tekst");
+            int a = 2;
+
+            if(a % 2 == 0)
+                Console.WriteLine("Parzysta");
         }
     }
 }
