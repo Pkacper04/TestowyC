@@ -15,6 +15,8 @@ namespace TestowyC
 
             if(a % 2 == 0)
                 Console.WriteLine("Parzysta");
+            else
+                Console.WriteLine("Niparzysta");
         }
     }
 }
